@@ -10,10 +10,8 @@ I am currently pursuing Electrical and Communication Engineering with a speciali
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kayteekay1412&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayteekay1412&layout=compact&theme=vision-friendly-dark)](https://github.com/kayteekay1412/github-readme-stats)<br/>
-
 # 📝 Random Developer Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kayteekay1412&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
