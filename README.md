@@ -5,6 +5,7 @@ I am currently pursuing Electrical and Communication Engineering with a speciali
 
 ## 🌐 Socials:
 Email: karthikeyan.nkumar@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-nandakumar/) 
 
 # 💻 Tech Stack:
