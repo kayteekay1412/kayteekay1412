@@ -1,7 +1,10 @@
+# Karthikeyan Nandakumar
+
 # 💫 About Me:
 I am currently pursuing Electrical and Communication Engineering with a specialization in Data Science. My current goal is to upgrade my pre-existing technical skills, to be specific in different coding languages with an added interest in Python and Data Analytics.
 
 ## 🌐 Socials:
+Email: karthikeyan.nkumar@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-nandakumar/) 
 
 # 💻 Tech Stack:
